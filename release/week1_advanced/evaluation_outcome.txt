@@ -1,0 +1,5 @@
+data/miniout1.csv O f-score 0.889
+
+text2 = 'data/miniout2.csv I-ORG f-score 0.571'
+text3 = 'data/miniout2.csv I-PER precision 0.500'
+text4 = 'data/miniout2.csv I-ORG recall 0.667'
